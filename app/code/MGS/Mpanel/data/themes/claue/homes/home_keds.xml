@@ -1,0 +1,250 @@
+<home>
+	<section>
+		<name><![CDATA[block0]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[["margin-bottom30"]]]></block_class>
+		<class><![CDATA[container]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<padding_top><![CDATA[35]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[1]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block1]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[["margin-bottom30"]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<padding_top><![CDATA[]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[2]]></block_position>
+	</section>
+		<section>
+		<name><![CDATA[block2]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[["margin-bottom30"]]]></block_class>
+		<class><![CDATA[container]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<padding_top><![CDATA[35]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[3]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block3]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[["margin-bottom30"]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<padding_top><![CDATA[35]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[4]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block4]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[6,6]]></block_cols>
+		<tablet_cols><![CDATA[["12","12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12","12"]]]></mobile_cols>
+		<block_class><![CDATA[["margin-bottom30","margin-bottom30","margin-bottom30","margin-bottom30"]]]></block_class>
+		<class><![CDATA[padding-left30 padding-right30]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<padding_top><![CDATA[35]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[5]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block5]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[0]]></fullwidth>
+		<padding_top><![CDATA[35]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[6]]></block_position>
+	</section>
+	<section>
+		<name><![CDATA[block6]]></name>
+		<theme_name><![CDATA[]]></theme_name>
+		<block_cols><![CDATA[12]]></block_cols>
+		<tablet_cols><![CDATA[["12"]]]></tablet_cols>
+		<mobile_cols><![CDATA[["12"]]]></mobile_cols>
+		<block_class><![CDATA[[""]]]></block_class>
+		<class><![CDATA[padding-left30 padding-right30]]></class>
+		<background><![CDATA[]]></background>
+		<background_image><![CDATA[]]></background_image>
+		<background_repeat><![CDATA[0]]></background_repeat>
+		<background_cover><![CDATA[0]]></background_cover>
+		<parallax><![CDATA[0]]></parallax>
+		<fullwidth><![CDATA[1]]></fullwidth>
+		<padding_top><![CDATA[35]]></padding_top>
+		<padding_bottom><![CDATA[]]></padding_bottom>
+		<block_position><![CDATA[7]]></block_position>
+	</section>
+	<block>
+		<block_name><![CDATA[block0-0]]></block_name>
+		<type><![CDATA[owl_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"block_link":"","animation":"","animation_delay":"","removeimg":["","","","","","","","","","","","","","","","","","","","","","",""],"html_slider":,"fullheight":"1","offset":".header","effect":"1","speed":"","pagination":"1","navtemple":"1","loop":"1","fullscreen":0,"autoplay":0,"stop_auto":0,"navigation":"1"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[]]></class>
+		<block_content><![CDATA[{{block class="Magento\Cms\Block\Block" block_id="keds_home_banner_sliders_1"}}]]></block_content>
+	</block>
+	<block>
+		<block_name><![CDATA[block0-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"animation":"","animation_delay":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[block-slide]]></class>
+		<block_content><![CDATA[<div class="easycontent" align="center">
+<div class="text container-fluid">
+<p class="bottom-breadcrumbs">your personal shopper:
+<br class="rwd-break">
+&nbsp; <a href="https://www.keds.com.ph/24-slip-on">SLIP-ON</a>
+&gt; <a href="https://www.keds.com.ph/25-lace-up">LACE-UP</a> 
+&gt; <a href="https://www.keds.com.ph/26-white">WHITE</a>
+&gt; <a href="https://www.keds.com.ph/27-leather">LEATHER</a> 
+&gt; <a href="https://www.keds.com.ph/28-sparkle-shine">SPARKLE 
+&amp; SHINE</a>
+</p>
+</div>
+</div>]]></block_content>
+	</block>
+	<block>
+		<block_name><![CDATA[block1-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"animation":"","animation_delay":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[col-xs-12]]></class>
+		<padding_top><![CDATA[25]]></padding_top>
+		<block_content><![CDATA[<div class="icon-service container" align="center">
+<div class="text">
+<p class="header-slider">FIND YOUR CHAMPION</p>
+<p class="content-slider">With 100+ prints and hues, there's a pair for every side of you</p>
+</div>
+</div>]]></block_content>
+	</block>
+	<block>
+		<block_name><![CDATA[block2-0]]></block_name>
+		<type><![CDATA[owl_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"block_link":"","animation":"","animation_delay":"","removeimg":["","","","","","","","","","","","","","","","","","","","","","",""],"fullheight":"1","offset":"","effect":"1","speed":"","navtemple":"1","fullscreen":0,"autoplay":0,"stop_auto":0,"navigation":1,"pagination":1,"loop":"1"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[no-padding]]></class>
+		<block_content><![CDATA[{{block class="Magento\Cms\Block\Block" block_id="keds_home_banner_sliders_2"}}]]></block_content>
+	</block>
+	<block>
+		<block_name><![CDATA[block3-0]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"animation":"","animation_delay":"","text_colour":"","link_colour":"","link_hover_colour":"","button_colour":"","button_hover_colour":"","button_text_colour":"","button_text_hover_colour":"","button_border_colour":"","button_border_hover_colour":"","banner_id":"keds-home-banner-center"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[col-xs-12]]></class>
+		<block_content><![CDATA[{{widget type="MGS\Promobanners\Block\Widget\Banner" banner_id="keds-home-banner-center" template="banner-1.phtml"}}]]></block_content>
+	</block>
+	<block>
+		<block_name><![CDATA[block4-0]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"animation":"","animation_delay":"","text_colour":"","link_colour":"","link_hover_colour":"","button_colour":"","button_hover_colour":"","button_text_colour":"","button_text_hover_colour":"","button_border_colour":"","button_border_hover_colour":"","banner_id":"keds-home-banner-left"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[col-xs-12]]></class>
+		<block_content><![CDATA[{{widget type="MGS\Promobanners\Block\Widget\Banner" banner_id="keds-home-banner-left" template="banner-2.phtml"}}]]></block_content>
+	</block>
+	<block>
+		<block_name><![CDATA[block4-1]]></block_name>
+		<type><![CDATA[promo_banner]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"animation":"","animation_delay":"","text_colour":"","link_colour":"","link_hover_colour":"","button_colour":"","button_hover_colour":"","button_text_colour":"","button_text_hover_colour":"","button_border_colour":"","button_border_hover_colour":"","banner_id":"keds-home-banner-right"}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[col-xs-12]]></class>
+		<block_content><![CDATA[{{widget type="MGS\Promobanners\Block\Widget\Banner" banner_id="keds-home-banner-right" template="banner-2.phtml"}}]]></block_content>
+	</block>
+	<block>
+		<block_name><![CDATA[block5-0]]></block_name>
+		<type><![CDATA[static]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"animation":"","animation_delay":""}]]></setting>
+		<col><![CDATA[12]]></col>
+		<class><![CDATA[col-xs-12]]></class>
+		<block_content><![CDATA[
+			<div class="" align="center">
+				<div class="text">
+					<p class="xked">Your Shoe. Your Works.</p>
+					<p class="xspan">
+						<span class="xshare">
+							SHARE YOUR 
+							<strong>#KEDSSTYLE</strong>
+						</span>
+					</p>
+				</div>
+			</div>]]>
+		</block_content>
+	</block>
+	<block>
+		<block_name><![CDATA[block6-0]]></block_name>
+		<type><![CDATA[instagram]]></type>
+		<position><![CDATA[1]]></position>
+		<setting><![CDATA[{"title":"","additional_content":"Find us on Instagram","animation":"","animation_delay":"","limit":"8","perrow":"4","resolution":"low_resolution","link":"1","like":"1","comment":"1","use_slider":"0","number_row":"2","navigation":"0","autoplay":0,"stop_auto":0,"pagination":0}]]></setting>
+		<col><![CDATA[0]]></col>
+		<class><![CDATA[container]]></class>
+		<block_content><![CDATA[{{block class="MGS\Social\Block\Panel\Widget" mgs_panel_title="" mgs_panel_note="" limit="8" resolution="low_resolution" link="1" perrow="4" use_slider="0" like="1" comment="1" autoplay="0" stop_auto="0" navigation="0" pagination="0" number_row="2" template="widget/instagram.phtml"}}]]></block_content>
+	</block>
+	<promo_banner>
+	</promo_banner>
+	<theme_setting>
+		<general>
+			<header>header_keds</header>
+			<footer>footer_keds</footer>
+			<layout>wide</layout>
+		</general>
+		<custom_style><style></style></custom_style>
+	</theme_setting>
+
+</home>

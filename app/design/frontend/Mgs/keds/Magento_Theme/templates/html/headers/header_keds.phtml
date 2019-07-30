@@ -1,0 +1,56 @@
+<?php $block = $this->getBlock() ?>
+
+<?php $helper = $this->helper('MGS\Mpanel\Helper\Data') ?>
+<?php $canUsePanel = $helper->acceptToUsePanel() ?>
+
+<?php $objectManager = \Magento\Framework\App\ObjectManager::getInstance(); ?>
+<?php $customerSession = $objectManager->create('Magento\Customer\Model\Session'); ?>
+<?php $customerUrl = $objectManager->create('Magento\Customer\Model\Url'); ?>
+
+<?php $topLeftBlock = $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header_1_top_left_link')->setCanUsePanel($canUsePanel)->toHtml(); ?>
+
+<?php $topMiddleBlock = $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header_1_top_middle_block')->setCanUsePanel($canUsePanel)->toHtml(); ?>
+<?php $htmlTabMenu = $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header_menu_block')->setCanUsePanel($canUsePanel)->toHtml(); ?>
+<?php $htmlTabContent = $this->getLayout()->createBlock('Magento\Cms\Block\Block')->setBlockId('header_menu_mobile_block')->setCanUsePanel($canUsePanel)->toHtml(); ?>
+
+<div class="top-header-content" style="background-color: #efe8de;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 col-sm-6 col-xs-12">
+                    <!-- Static block: header_1_top_middle_block -->
+                    <?php if($topMiddleBlock): ?>
+                        <div class="top-middle-header">
+                            <?php echo $topMiddleBlock; ?>
+                        </div>
+                    <?php endif ?>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="middle-header-content">
+        <div class="container">
+            <div class="row">
+                <div class="hidden-lg col-lg-2 col-md-4 col-sm-4 mobile-item-col">
+                    <button class="action nav-toggle hidden-lg"><?php echo $imgToggleMenu ?></button>
+                </div>
+                <div class="hidden-lg col-md-4 col-sm-4 logo-header mobile-item-col"><?php echo $logo ?></div>
+                <div class="hidden-mobile col-lg-2 col-xs-12 logo-header">
+                    <?php echo $logo ?>
+                </div>
+                <div class="col-lg-8 col-xs-12 megamenu-content">
+                    <?php echo $htmlTabMenu ?><?php echo $htmlTabContent ?>
+                </div>
+
+                <div class="col-lg-2 col-md-4 col-sm-4 col-xs-auto mobile-item-col">
+                    <div class="table-icon-menu pull-right">
+                        <?php echo $topSearch ?>
+                        
+                        <?php echo $htmlTopLink ?>
+                        
+                        <?php echo $miniCart ?>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<button class="action close-nav-button"><span class="pe-7s-close" aria-hidden="true"></span></button>
